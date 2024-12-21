@@ -1,0 +1,178 @@
+[
+  {
+    "english_word": "pen",
+    "translations": [
+      "bút mực"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "pencil",
+    "translations": [
+      "bút chì"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "pencil case",
+    "translations": [
+      "hộp bút"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "ruler",
+    "translations": [
+      "thước kẻ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "rubber",
+    "translations": [
+      "cục tẩy"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "pencil sharpener",
+    "translations": [
+      "gọt bút chì"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "glue",
+    "translations": [
+      "ken dán",
+      "ken dán giấy"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "scissors",
+    "translations": [
+      "kéo", "cái kéo"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "crayon",
+    "translations": [
+      "bút màu"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "compass",
+    "translations": [
+      "la bàn", "cái compa", "compa"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "calculator",
+    "translations": [
+      "máy tính bỏ túi", "máy tính số"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "textbook",
+    "translations": [
+      "sách giáo khoa"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "fridge",
+    "translations": [
+      "tủ lạnh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dish washer",
+    "translations": [
+      "máy rửa đĩa"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "washing machine",
+    "translations": [
+      "máy giặt"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "microwave",
+    "translations": [
+      "lò vi sóng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "kettle",
+    "translations": [
+      "ấm đun"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "AC",
+    "translations": [
+      "điều hòa"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "rice cooker",
+    "translations": [
+      "nồi cơm", "nồi cơm điện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "pan",
+    "translations": [
+      "chảo"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "glass",
+    "translations": [
+      "ly", "thủy tinh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "glasses",
+    "translations": [
+      "cặp kính", "kính"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "cup",
+    "translations": [
+      "tách"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "light",
+    "translations": [
+      "cái đèn", "đèn", "ánh sáng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "lamp",
+    "translations": [
+      "đèn ngủ"
+    ],
+    "image": "image2.png"
+  }
+]

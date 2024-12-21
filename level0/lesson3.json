@@ -1,0 +1,205 @@
+[
+  {
+    "english_word": "fast",
+    "translations": [
+      "nhanh"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "slow",
+    "translations": [
+      "chậm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "strong",
+    "translations": [
+      "khỏe"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "weak",
+    "translations": [
+      "ốm yếu", "yếu"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "hard",
+    "translations": [
+      "cứng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "heavy",
+    "translations": [
+      "nặng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "light",
+    "translations": [
+      "nhẹ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "thin",
+    "translations": [
+      "mỏng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "thick",
+    "translations": [
+      "dầy"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "loud",
+    "translations": [
+      "ồn ào"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "quiet",
+    "translations": [
+      "im lặng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "polite",
+    "translations": [
+      "lịch sự"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "rude",
+    "translations": [
+      "thô lỗ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "friendly",
+    "translations": [
+      "thân thiện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "unfriendly",
+    "translations": [
+      "không thân thiện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "bright",
+    "translations": [
+      "sáng sủa"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dark",
+    "translations": [
+      "đen tối"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "interesting",
+    "translations": [
+      "thú vị"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "exciting",
+    "translations": [
+      "thú vị"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "annoying",
+    "translations": [
+      "phiền phức"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "amazing",
+    "translations": [
+      "tuyệt vời"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "surprising",
+    "translations": [
+      "đáng ngạc nhiên"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "disappointing",
+    "translations": [
+      "đáng thất vọng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "interested",
+    "translations": [
+      "cảm thấy thích"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "excited",
+    "translations": [
+      "cảm thấy hào hứng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "annoyed",
+    "translations": [
+      "cảm thấy phiền"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "amazed",
+    "translations": [
+      "cảm thấy ngạc nhiên"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "surprised",
+    "translations": [
+      "cảm thấy ngạc nhiên"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "disappointed",
+    "translations": [
+      "cảm thấy thất vọng"
+    ],
+    "image": "image2.png"
+  }
+]

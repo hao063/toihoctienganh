@@ -1,0 +1,275 @@
+[
+  {
+    "english_word": "places",
+    "translations": [
+      "địa điểm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bank",
+    "translations": [
+      "ngân hàng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pharmacy",
+    "translations": [
+      "nhà thuốc"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hospital",
+    "translations": [
+      "bệnh viện"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "gas station",
+    "translations": [
+      "cây xăng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "police station",
+    "translations": [
+      "đồn cảnh sát", "đồn công an"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "post office",
+    "translations": [
+      "bưu điện"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cow",
+    "translations": [
+      "con bò", "bò"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "buffalo",
+    "translations": [
+      "con trâu", "trâu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "rabbit",
+    "translations": [
+      "con thỏ", "thỏ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "duck",
+    "translations": [
+      "con vịt", "vịt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "goose",
+    "translations": [
+      "con ngỗng", "ngỗng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "rooster",
+    "translations": [
+      "gà trống"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hen",
+    "translations": [
+      "gà mái"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sea animals",
+    "translations": [
+      "động vật biển"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "whale",
+    "translations": [
+      "cá voi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "dolphin",
+    "translations": [
+      "cá heo"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shark",
+    "translations": [
+      "cá mập"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "turtle",
+    "translations": [
+      "con rùa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "jellyfish",
+    "translations": [
+      "con sứa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "wild animal",
+    "translations": [
+      "động vật hoang dã"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "elephant",
+    "translations": [
+      "con voi", "voi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "tiger",
+    "translations": [
+      "con hổ", "hổ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lion",
+    "translations": [
+      "con sử tử", "sử tử"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bear",
+    "translations": [
+      "con gấu", "gấu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "deer",
+    "translations": [
+      "con nai", "nai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "leopard",
+    "translations": [
+      "con báo", "báo"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "snake",
+    "translations": [
+      "cơn rắn", "rắn"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hippo",
+    "translations": [
+      "hà mã", "con hà mã"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "chimpanzee",
+    "translations": [
+      "tinh tinh", "con tinh tinh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bird",
+    "translations": [
+      "chim", "con chim"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "crocodile",
+    "translations": [
+      "cá sấu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "penguin",
+    "translations": [
+      "chim cánh cụt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "insect",
+    "translations": [
+      "con trùng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "ant",
+    "translations": [
+      "kiến", "con kiến"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "spider",
+    "translations": [
+      "con nhện", "nhện"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bee",
+    "translations": [
+      "ong", "con ong"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "butterfly",
+    "translations": [
+      "bươm bướm", "con bươm bướm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mosquito",
+    "translations": [
+      "con muỗi", "muỗi"
+    ],
+    "image": "no-image.jpg"
+  }
+]

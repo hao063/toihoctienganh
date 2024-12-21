@@ -1,0 +1,212 @@
+[
+  {
+    "english_word": "happy",
+    "translations": [
+      "vui vẻ"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "sad",
+    "translations": [
+      "buồn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "hungry",
+    "translations": [
+      "đói"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "thirsty",
+    "translations": [
+      "khát nước"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "angry",
+    "translations": [
+      "tức giận"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "relaxed",
+    "translations": [
+      "thư giãn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "tired",
+    "translations": [
+      "mệt mỏi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "bored",
+    "translations": [
+      "chán"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "excited",
+    "translations": [
+      "hào hứng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "nervous",
+    "translations": [
+      "lo lắng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "sleepy",
+    "translations": [
+      "buồn ngủ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "pretty",
+    "translations": [
+      "đẹp"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "ugly",
+    "translations": [
+      "xấu"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "clean",
+    "translations": [
+      "sạch sẽ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dirty",
+    "translations": [
+      "bẩn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "big",
+    "translations": [
+      "lớn", "to", "to lớn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "small",
+    "translations": [
+      "nhỏ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "long",
+    "translations": [
+      "dài"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "short",
+    "translations": [
+      "ngắn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "tall",
+    "translations": [
+      "cao"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "young",
+    "translations": [
+      "trẻ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "old",
+    "translations": [
+      "già"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "cheap",
+    "translations": [
+      "rẻ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "expensive",
+    "translations": [
+      "đắt"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "easy",
+    "translations": [
+      "dễ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "difficult",
+    "translations": [
+      "khó"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "noisy",
+    "translations": [
+      "ồn ào"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "quiet",
+    "translations": [
+      "im lặng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "delicious",
+    "translations": [
+      "ngon"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dangerous",
+    "translations": [
+      "nguy hiểm"
+    ],
+    "image": "image2.png"
+  }
+]

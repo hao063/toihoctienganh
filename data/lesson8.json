@@ -1,0 +1,219 @@
+[
+  {
+    "english_word": "clothes",
+    "translations": [
+      "quần áo"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hat",
+    "translations": [
+      "mũ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shirt",
+    "translations": [
+      "áo sơ mi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "T-shirt",
+    "translations": [
+      "áo phông"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "blouse",
+    "translations": [
+      "áo sơ mi nữ", "áo nữ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sweater",
+    "translations": [
+      "áo len", "áo nịt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hoodie",
+    "translations": [
+      "áo có mũ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "jacket",
+    "translations": [
+      "áo khoác"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "coat",
+    "translations": [
+      "bữa sáng", "áo choàng dài"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pants",
+    "translations": [
+      "quần dài"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shorts",
+    "translations": [
+      "quần ngắn", "quần đùi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "jeans",
+    "translations": [
+      "quần bò"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "skirt",
+    "translations": [
+      "chân váy"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "dress",
+    "translations": [
+      "váy"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "suit",
+    "translations": [
+      "bộ âu phục"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "slippers",
+    "translations": [
+      "dép sỏ ngón"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shoes",
+    "translations": [
+      "giày", "đôi giày", "giày dép"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sneakers",
+    "translations": [
+      "giày thể thao"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "heels",
+    "translations": [
+      "giày cao gót"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "flip-flops",
+    "translations": [
+      "dép tông"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sandals",
+    "translations": [
+      "dép quai hậu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bag",
+    "translations": [
+      "túi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "backpack",
+    "translations": [
+      "ba lô", "cặp", "cặp sách"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "scarf",
+    "translations": [
+      "khăn quàng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "gloves",
+    "translations": [
+      "găng tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "raincoat",
+    "translations": [
+      "áo mưa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "watch",
+    "translations": [
+      "đồng hồ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "earrings",
+    "translations": [
+      "khuyển tai", "bông tai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "necklace",
+    "translations": [
+      "vòng cổ", "dây chuyền"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bracelet",
+    "translations": [
+      "vòng tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mask",
+    "translations": [
+      "khẩu trang"
+    ],
+    "image": "no-image.jpg"
+  }
+]

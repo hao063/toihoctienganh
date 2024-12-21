@@ -1,0 +1,192 @@
+[
+  {
+    "english_word": "read books",
+    "translations": [
+      "đọc sách"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "listen to music",
+    "translations": [
+      "nghe nhạc"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "watch TV",
+    "translations": [
+      "xem tivi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "surf the Internet",
+    "translations": [
+      "Lướt web",
+      "lượt mạng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "take photos",
+    "translations": [
+      "chụp ảnh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "cook",
+    "translations": [
+      "nấu ăn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dance",
+    "translations": [
+      "nhảy"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "sing",
+    "translations": [
+      "hát"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "draw",
+    "translations": [
+      "vẽ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "swim",
+    "translations": [
+      "bơi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "travel",
+    "translations": [
+      "du lịch"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "make Tik Tok videos",
+    "translations": [
+      "làm video Tik Tok"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play football",
+    "translations": [
+      "chơi đá bóng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "soccer",
+    "translations": [
+      "đá bóng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play badminton",
+    "translations": [
+      "chơi cầu lông", "cầu lông"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play basketball",
+    "translations": [
+      "bóng rổ", "chơi bóng rổ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play video games",
+    "translations": [
+      "chơi game", "chơi trò chơi điện tử"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play the guitar",
+    "translations": [
+      "chơi đàn guitar", "chơi guitar"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "play boardgames",
+    "translations": [
+      "chơi bàn cờ", "chơi cờ trên bàn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go to the gym",
+    "translations": [
+      "đi đến phòng tập thể dục"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go to the cafe",
+    "translations": [
+      "đi đến quán cà phê"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go camping",
+    "translations": [
+      "cám trại"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go jogging",
+    "translations": [
+      "chạy bền"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go fishing",
+    "translations": [
+      "câu cá"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go to the cinema",
+    "translations": [
+      "đi xem phim"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "go shopping",
+    "translations": [
+      "đi mua sắm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "hang out with friends",
+    "translations": [
+      "đi chơi với bạn", "đi chơi với bạn bè"
+    ],
+    "image": "image2.png"
+  }
+]

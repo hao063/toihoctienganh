@@ -1,0 +1,72 @@
+[
+  {
+    "english_word": "argue",
+    "translations": [
+      "cãi nhau"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "communicate",
+    "translations": [
+      "giao tiếp"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "discuss",
+    "translations": [
+      "thảo luận"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "forgive",
+    "translations": [
+      "tha thứ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "improve",
+    "translations": [
+      "cải thiện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "orgaize",
+    "translations": [
+      "tổ chức"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "practise",
+    "translations": [
+      "luyện tập"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "solve",
+    "translations": [
+      "giải quyết"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "express",
+    "translations": [
+      "thể hiện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "describe",
+    "translations": [
+      "miêu tả"
+    ],
+    "image": "image2.png"
+  }
+]

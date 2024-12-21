@@ -1,0 +1,261 @@
+[
+  {
+    "english_word": "body",
+    "translations": [
+      "Cơ thể"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "head",
+    "translations": [
+      "đầu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hair",
+    "translations": [
+      "tóc"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "skin",
+    "translations": [
+      "da"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "eyes",
+    "translations": [
+      "mắt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "eyebrow",
+    "translations": [
+      "lông mày"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "ears",
+    "translations": [
+      "tai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "nose",
+    "translations": [
+      "mũi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cheek",
+    "translations": [
+      "má"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lips",
+    "translations": [
+      "môi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mouth",
+    "translations": [
+      "miệng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "tooth",
+    "translations": [
+      "răng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "tongue",
+    "translations": [
+      "lưỡi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "throat",
+    "translations": [
+      "cổ họng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "neck",
+    "translations": [
+      "cổ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "arm",
+    "translations": [
+      "cái tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "hand",
+    "translations": [
+      "bàn tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "finger",
+    "translations": [
+      "ngón tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "elbow",
+    "translations": [
+      "khuỷu tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "nail",
+    "translations": [
+      "móng tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "foot",
+    "translations": [
+      "bàn chân"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "leg",
+    "translations": [
+      "cẳng chân"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "knee",
+    "translations": [
+      "đầu gối"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shoulder",
+    "translations": [
+      "vai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "breather",
+    "translations": [
+      "thở"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "smile",
+    "translations": [
+      "cười nhẹ", "cười"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "laugh",
+    "translations": [
+      "cười lớn"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cry",
+    "translations": [
+      "khóc"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "jump",
+    "translations": [
+      "nhảy"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "stand",
+    "translations": [
+      "đứng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lie",
+    "translations": [
+      "nằm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "write",
+    "translations": [
+      "viết"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "speak",
+    "translations": [
+      "nói"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "look",
+    "translations": [
+      "nhìn"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "listen",
+    "translations": [
+      "nghe"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "smell",
+    "translations": [
+      "ngửi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "taste",
+    "translations": [
+      "nếm"
+    ],
+    "image": "no-image.jpg"
+  }
+]

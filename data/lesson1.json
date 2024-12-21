@@ -1,0 +1,18 @@
+[
+  {
+    "english_word": "a sore throat",
+    "translations": [
+      "đau họng",
+      "viêm họng"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "banana",
+    "translations": [
+      "chuối",
+      "quả chuối"
+    ],
+    "image": "image2.png"
+  }
+]

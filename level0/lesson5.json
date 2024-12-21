@@ -1,0 +1,100 @@
+[
+  {
+    "english_word": "terrible",
+    "translations": [
+      "khủng khiếp"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "awful",
+    "translations": [
+      "tồi tệ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "terrific",
+    "translations": [
+      "tuyệt vời"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "awesome",
+    "translations": [
+      "tuyệt vời"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "pround",
+    "translations": [
+      "tự hào"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "generous",
+    "translations": [
+      "hào phóng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "wise",
+    "translations": [
+      "thông minh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "brave",
+    "translations": [
+      "dũng cảm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "patient",
+    "translations": [
+      "kiên nhẫn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "honest",
+    "translations": [
+      "trung thực"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "calm",
+    "translations": [
+      "bình tĩnh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "worried",
+    "translations": [
+      "lo lắng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "popular",
+    "translations": [
+      "phổ biến"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "healthy",
+    "translations": [
+      "khỏe mạnh"
+    ],
+    "image": "image2.png"
+  }
+]

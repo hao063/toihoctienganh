@@ -1,0 +1,135 @@
+[
+  {
+    "english_word": "quickly",
+    "translations": [
+      "một cánh nhanh chóng"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "slowly",
+    "translations": [
+      "một cánh chậm chạm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "carefully",
+    "translations": [
+      "một cách cẩn thận"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "easily",
+    "translations": [
+      "một cách dễ dàng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "quietly",
+    "translations": [
+      "một cách chật tự"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "loudly",
+    "translations": [
+      "dùng cho cách âm thanh to", "to"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "happily",
+    "translations": [
+      "một cách vui vẻ hạnh phúc"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "sadly",
+    "translations": [
+      "một cách buồn bã"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "angrily",
+    "translations": [
+      "một cách tức giận"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "rarely",
+    "translations": [
+      "hiếm khi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "early",
+    "translations": [
+      "sớm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "extremely",
+    "translations": [
+      "rất", "vô cùng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "absolutely",
+    "translations": [
+      "tuyệt đối", "hoàn toàn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "well",
+    "translations": [
+      "giỏi", "tốt"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "soon",
+    "translations": [
+      "sớm", "sớm thôi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "together",
+    "translations": [
+      "cùng nhau"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "somewhere",
+    "translations": [
+      "ở nơi nào đó", "nơi nào"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "here",
+    "translations": [
+      "ở đây"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "almost",
+    "translations": [
+      "hấu hết", "gần như"
+    ],
+    "image": "image2.png"
+  }
+]

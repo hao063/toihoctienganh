@@ -1,0 +1,107 @@
+[
+  {
+    "english_word": "create",
+    "translations": [
+      "tạo ra", "làm ra"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "produce",
+    "translations": [
+      "sản xuất ra"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "discover",
+    "translations": [
+      "khám phá"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "consider",
+    "translations": [
+      "cân nhắc"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "explain",
+    "translations": [
+      "giải thích", "lý giải"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "imagine",
+    "translations": [
+      "gây tưởng tượng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "responsible",
+    "translations": [
+      "có trách nhiệm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "creativity",
+    "translations": [
+      "sự sáng tạo"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "products",
+    "translations": [
+      "sản phẩm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "discovery",
+    "translations": [
+      "sự khám phá"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "consideration",
+    "translations": [
+      "sự cân nhắc"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "explanation",
+    "translations": [
+      "sự giải thích"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "imagination",
+    "translations": [
+      "sự tưởng tượng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "impression",
+    "translations": [
+      "sự ấn tượng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "responsibility",
+    "translations": [
+      "sự trách nhiệm" 
+    ],
+    "image": "image2.png"
+  }
+]

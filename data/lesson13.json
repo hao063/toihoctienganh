@@ -1,0 +1,212 @@
+[
+  {
+    "english_word": "family",
+    "translations": [
+      "gia đình"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "job",
+    "translations": [
+      "việc", "công việc"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "grandparents",
+    "translations": [
+      "ông bà"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "grandmother",
+    "translations": [
+      "bà"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "grandfather",
+    "translations": [
+      "ông"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "parents",
+    "translations": [
+      "phụ huynh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "father",
+    "translations": [
+      "bố"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mother",
+    "translations": [
+      "mẹ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "stepfather",
+    "translations": [
+      "dượng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "stepmother",
+    "translations": [
+      "mẹ kế"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "father in law",
+    "translations": [
+      "bố vợ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mother in law",
+    "translations": [
+      "mẹ vợ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "uncle",
+    "translations": [
+      "chú", "bác", "cậu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "aunt",
+    "translations": [
+      "dì", "cô", "bác", "thím"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sibling",
+    "translations": [
+      "anh em ruột"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cousin",
+    "translations": [
+      "anh em họ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "nephew",
+    "translations": [
+      "cháu trai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "niece",
+    "translations": [
+      "cháu gái"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "husband",
+    "translations": [
+      "chồng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "wife",
+    "translations": [
+      "vợ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "doctor",
+    "translations": [
+      "bác sĩ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "nurse",
+    "translations": [
+      "y tá"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "dentist",
+    "translations": [
+      "nha sĩ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pilot",
+    "translations": [
+      "phi công"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "farmer",
+    "translations": [
+      "nông dân"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "firefighter",
+    "translations": [
+      "lính cứu hỏa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "engineer",
+    "translations": [
+      "kỹ sư"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "factory worker",
+    "translations": [
+      "nhân viên nhà máy", "công nhân nhà máy"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lawyer",
+    "translations": [
+      "luật sư"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "office worker",
+    "translations": [
+      "nhân viên văn phòng"
+    ],
+    "image": "no-image.jpg"
+  }
+]

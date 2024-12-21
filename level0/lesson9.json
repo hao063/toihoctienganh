@@ -1,0 +1,121 @@
+[
+  {
+    "english_word": "flight",
+    "translations": [
+      "chuyến bay"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "board",
+    "translations": [
+      "lên máy bay"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "boarding pass",
+    "translations": [
+      "vé máy bay"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "passengers",
+    "translations": [
+      "hành khách"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "take off",
+    "translations": [
+      "cất cánh"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "seat",
+    "translations": [
+      "chỗ ngồi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "window seat",
+    "translations": [
+      "chỗ ngồi cạnh cửa sổ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "aisle seat",
+    "translations": [
+      "ghế cạnh lối đi", "chỗ cạnh lối đi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "hand luggage",
+    "translations": [
+      "hành lý xách tay"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "baggage",
+    "translations": [
+      "hành lý chung"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "suitcase",
+    "translations": [
+      "vali"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "gate departure",
+    "translations": [
+      "ga đi", "khởi hành"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "arrival",
+    "translations": [
+      "ga đến"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "departure",
+    "translations": [
+      "đi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "economy class",
+    "translations": [
+      "vé hạng phổ thông" 
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "business class",
+    "translations": [
+      "vé hạng thương gia" 
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "security",
+    "translations": [
+      "bảo vệ" 
+    ],
+    "image": "image2.png"
+  }
+]

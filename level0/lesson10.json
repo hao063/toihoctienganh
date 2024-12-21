@@ -1,0 +1,72 @@
+[
+  {
+    "english_word": "offer",
+    "translations": [
+      "đề xuất"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "steal",
+    "translations": [
+      "lấy trộm"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "arrange",
+    "translations": [
+      "sắp xếp"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "blame",
+    "translations": [
+      "đổ lỗi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "change",
+    "translations": [
+      "thay đổi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "choose",
+    "translations": [
+      "chọn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "complete",
+    "translations": [
+      "hoàn thiện"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "construct",
+    "translations": [
+      "xây dựng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "invite",
+    "translations": [
+      "mời"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "prepare",
+    "translations": [
+      "chuẩn bị"
+    ],
+    "image": "image2.png"
+  }
+]

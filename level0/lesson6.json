@@ -1,0 +1,114 @@
+[
+  {
+    "english_word": "serious",
+    "translations": [
+      "nghiêm trọng"
+    ],
+    "image": "image1.png"
+  },
+  {
+    "english_word": "weird",
+    "translations": [
+      "kỳ lạ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "careful",
+    "translations": [
+      "cẩn thận"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "careless",
+    "translations": [
+      "bất cẩn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "lucky",
+    "translations": [
+      "may mắn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "unlucky",
+    "translations": [
+      "không may mắn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "confident",
+    "translations": [
+      "tự tin"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "shy",
+    "translations": [
+      "xấu hổ"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "safe",
+    "translations": [
+      "an toàn"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "useful",
+    "translations": [
+      "có lợi", "có ích"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "useless",
+    "translations": [
+      "vô dụng", "bất lợi"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "attractive",
+    "translations": [
+      "thu hút"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "empty",
+    "translations": [
+      "trống dỗng"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "gentle",
+    "translations": [
+      "lịch thiệp"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "silly",
+    "translations": [
+      "ngu ngốc"
+    ],
+    "image": "image2.png"
+  },
+  {
+    "english_word": "dry",
+    "translations": [
+      "khô"
+    ],
+    "image": "image2.png"
+  }
+]

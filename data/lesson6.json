@@ -1,0 +1,287 @@
+[
+  {
+    "english_word": "food",
+    "translations": [
+      "đồ ăn"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "rice",
+    "translations": [
+      "cơm",
+      "gạo"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "bread",
+    "translations": [
+      "bánh mỳ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "noodle",
+    "translations": [
+      "mỳ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pasta",
+    "translations": [
+      "mì ống"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cookie",
+    "translations": [
+      "bánh quy"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "egg",
+    "translations": [
+      "trứng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "meat",
+    "translations": [
+      "thịt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pork",
+    "translations": [
+      "thịt lợn"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "beef",
+    "translations": [
+      "thịt bò"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sausage",
+    "translations": [
+      "xúc xích"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "fish",
+    "translations": [
+      "cá"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "shrimp",
+    "translations": [
+      "tôm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "crab",
+    "translations": [
+      "cua"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "tofu",
+    "translations": [
+      "đậu phộng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "tomato",
+    "translations": [
+      "cà chua"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "potato",
+    "translations": [
+      "khoai tây"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "broccoli",
+    "translations": [
+      "bông cải xanh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cauliflower",
+    "translations": [
+      "bông cải trắng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cucumber",
+    "translations": [
+      "dưa chuột"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cabbage",
+    "translations": [
+      "cải bắp",
+      "bắp cải"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mushroom",
+    "translations": [
+      "nấm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "onion",
+    "translations": [
+      "hành tây"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "orange",
+    "translations": [
+      "quả cam",
+      "cam"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lemon",
+    "translations": [
+      "quản chanh vàng",
+      "chanh vàng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lime",
+    "translations": [
+      "quả chanh xanh",
+      "chanh xanh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "mango",
+    "translations": [
+      "xoài",
+      "quả xoài"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "grapes",
+    "translations": [
+      "nho"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pineapple",
+    "translations": [
+      "quả dứa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "avocado",
+    "translations": [
+      "quả bơ"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "watermelon",
+    "translations": [
+      "dưa hấu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "strawberry",
+    "translations": [
+      "quả dâu",
+      "dâu tây",
+      "dâu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "coconut",
+    "translations": [
+      "quả dừa",
+      "dừa"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "peach",
+    "translations": [
+      "quả đào",
+      "đào"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "pear",
+    "translations": [
+      "quả lê",
+      "lê"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "jackfruit",
+    "translations": [
+      "mít",
+      "quả mít"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "orange juice",
+    "translations": [
+      "nước cam"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "lemonade",
+    "translations": [
+      "nước chanh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "milk",
+    "translations": [
+      "sữa"
+    ],
+    "image": "no-image.jpg"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "english_word": "sickness",
+    "translations": [
+      "bệnh tật"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "ill",
+    "translations": [
+      "ốm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "sick",
+    "translations": [
+      "ốm"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "healthy",
+    "translations": [
+      "khỏe mạnh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "unhealthy",
+    "translations": [
+      "ốm yếu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a cold",
+    "translations": [
+      "cảm lạnh"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a cough",
+    "translations": [
+      "ho"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a headache",
+    "translations": [
+      "đau đầu"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "an earache",
+    "translations": [
+      "đau tai"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a toothache",
+    "translations": [
+      "đau răng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a backache",
+    "translations": [
+      "đau lưng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a stomachache",
+    "translations": [
+      "đau bụng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a sore throat",
+    "translations": [
+      "viêm họng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "a fever",
+    "translations": [
+      "sốt"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cancer",
+    "translations": [
+      "ung thư"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "nosebleed",
+    "translations": [
+      "chảy máu mũi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "cut my finger",
+    "translations": [
+      "đứt tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "break my arm",
+    "translations": [
+      "bị gãy tay"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "take medicine",
+    "translations": [
+      "uống thuốc"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "take a rest",
+    "translations": [
+      "nghỉ ngơi"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "keep in shape",
+    "translations": [
+      "duy trì vóc dáng", "giữ dáng"
+    ],
+    "image": "no-image.jpg"
+  },
+  {
+    "english_word": "avoid",
+    "translations": [
+      "tránh xa", "tránh"
+    ],
+    "image": "no-image.jpg"
+  }
+]
