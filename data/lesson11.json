@@ -37,7 +37,8 @@
   {
     "english_word": "police station",
     "translations": [
-      "đồn cảnh sát", "đồn công an"
+      "đồn cảnh sát",
+      "đồn công an"
     ],
     "image": "no-image.jpg"
   },
@@ -49,226 +50,157 @@
     "image": "no-image.jpg"
   },
   {
-    "english_word": "cow",
+    "english_word": "airport",
     "translations": [
-      "con bò", "bò"
+      "sân bay"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "buffalo",
+    "english_word": "stadium",
     "translations": [
-      "con trâu", "trâu"
+      "sân bóng"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "rabbit",
+    "english_word": "museum",
     "translations": [
-      "con thỏ", "thỏ"
+      "bảo tàng"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "duck",
+    "english_word": "square",
     "translations": [
-      "con vịt", "vịt"
+      "quảng trường"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "goose",
+    "english_word": "coffee shop",
     "translations": [
-      "con ngỗng", "ngỗng"
+      "quán cà phê"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "rooster",
+    "english_word": "restaurant",
     "translations": [
-      "gà trống"
+      "nhà hàng"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "hen",
+    "english_word": "bakery",
     "translations": [
-      "gà mái"
+      "tiệm bánh", "cửa hàng bánh"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "sea animals",
+    "english_word": "factory",
     "translations": [
-      "động vật biển"
+      "nhà máy"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "whale",
+    "english_word": "pagoda",
     "translations": [
-      "cá voi"
+      "chùa"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "dolphin",
+    "english_word": "church",
     "translations": [
-      "cá heo"
+      "nhà thờ"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "shark",
+    "english_word": "cinema",
     "translations": [
-      "cá mập"
+      "rạp chiếu phim"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "turtle",
+    "english_word": "theater",
     "translations": [
-      "con rùa"
+      "nhà hát"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "jellyfish",
+    "english_word": "supermarket",
     "translations": [
-      "con sứa"
+      "siêu thị"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "wild animal",
+    "english_word": "shopping mall",
     "translations": [
-      "động vật hoang dã"
+      "trung tâm thương mại"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "elephant",
+    "english_word": "water park",
     "translations": [
-      "con voi", "voi"
+      "công viên nước"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "tiger",
+    "english_word": "forest",
     "translations": [
-      "con hổ", "hổ"
+      "khu rừng"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "lion",
+    "english_word": "field",
     "translations": [
-      "con sử tử", "sử tử"
+      "cách đồng"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "bear",
+    "english_word": "mountain",
     "translations": [
-      "con gấu", "gấu"
+      "mountain"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "deer",
+    "english_word": "beach",
     "translations": [
-      "con nai", "nai"
+      "bãi biển"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "leopard",
+    "english_word": "ocean",
     "translations": [
-      "con báo", "báo"
+      "đại dương"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "snake",
+    "english_word": "river",
     "translations": [
-      "cơn rắn", "rắn"
+      "sông", "con sông"
     ],
     "image": "no-image.jpg"
   },
   {
-    "english_word": "hippo",
+    "english_word": "lake",
     "translations": [
-      "hà mã", "con hà mã"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "chimpanzee",
-    "translations": [
-      "tinh tinh", "con tinh tinh"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "bird",
-    "translations": [
-      "chim", "con chim"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "crocodile",
-    "translations": [
-      "cá sấu"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "penguin",
-    "translations": [
-      "chim cánh cụt"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "insect",
-    "translations": [
-      "con trùng"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "ant",
-    "translations": [
-      "kiến", "con kiến"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "spider",
-    "translations": [
-      "con nhện", "nhện"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "bee",
-    "translations": [
-      "ong", "con ong"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "butterfly",
-    "translations": [
-      "bươm bướm", "con bươm bướm"
-    ],
-    "image": "no-image.jpg"
-  },
-  {
-    "english_word": "mosquito",
-    "translations": [
-      "con muỗi", "muỗi"
+      "hồ",
+      "hồ nước"
     ],
     "image": "no-image.jpg"
   }
